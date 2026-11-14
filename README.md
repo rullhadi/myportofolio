@@ -1,4 +1,4 @@
-﻿# 📐 CAD Drafter & Civil Engineering Portfolio
+﻿# 📐 Portfolio
 
 Portofolio web modern, interaktif, dan responsif untuk **Drafter Struktur Bangunan (Sipil)** dan **Rancang Bangun Kapal (Naval Architecture)**. Dibangun menggunakan React, TypeScript, Tailwind CSS, dan Vite.
 
